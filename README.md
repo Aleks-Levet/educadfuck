@@ -3,7 +3,8 @@ Tool to convert an Educadhoc school manual to a PDF file. Because their app is j
 
 # how to use
 basically you just open fuckthisshit.py (sorry for the filenames)
-if anyone cares about what i've done, open an issue to ping me.
+
+## if anyone cares about what i've done, open an issue to ping me so i can do a proper tutorial.
 
 # DISCLAIMER
 This software is provided as-is. The author (Aleks Levet) is not responsible 
